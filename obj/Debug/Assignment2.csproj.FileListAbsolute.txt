@@ -1,0 +1,24 @@
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+c:\users\11929229\documents\visual studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+E:\다니엘 과제\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\다니엘 과제\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\다니엘 과제\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+E:\다니엘 과제\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\다니엘 과제\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\다니엘 과제\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+E:\다니엘 과제\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\다니엘 과제\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
